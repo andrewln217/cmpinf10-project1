@@ -17,12 +17,12 @@ To contribute, you must first download the repository as stated in the instructi
 3- Type in “git push origin master”
 4- After pushing, the edits should have been pushed to github and you can create a pull request to the owner of the project. The owner will then have to accept your pull request to add your edits to the main project.
 
-##Support
+## Support
 For any support needs contact help@nicsupport.com
 
-##Authors
+## Authors
 Created by Andrew Nguyen and Evan Tall
 
-##Project Status
+## Project Status
 As of October 10, 2019, this project has been placed on hold until further notice.
 
