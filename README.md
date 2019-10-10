@@ -11,7 +11,7 @@ If you enter something other than an integer, the program will print out ```Ente
 If you successfully enter values for your name and age, the program will print ```You are [name] and you are [age] years old. 
 
 ## How to Contribute
-To contribute, you must first download the repository as stated in the instructions above. After making the desired edits, go to the command line. 
+To contribute, you must first download the repository as stated in the instructions above. After making the desired edits, go to the command line
 1- Type in “git add .”
 2- Type in “git commit -m” (the -m means message and after the m you would put your message in quotes and the description would upload along with your edits)
 3- Type in “git push origin master”
